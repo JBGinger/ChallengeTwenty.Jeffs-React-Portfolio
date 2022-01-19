@@ -4,7 +4,6 @@ import About from './pages/About';
 import Contact from './pages/Contact';
 //import Portfolio from './components/Portfolio';
 //import Resume from './components/Resume';
-import './App.css';
 
 function Portfolio() {
     const [currentPage, handlePageChange] = useState('Home');

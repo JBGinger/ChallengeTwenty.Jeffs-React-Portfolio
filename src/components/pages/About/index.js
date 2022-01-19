@@ -1,6 +1,6 @@
 import React from 'react';
 
-const About = () => {
+const About = () => (
   <section>
     <h1 id="about">Who am I?</h1>
     <p>
@@ -19,6 +19,6 @@ const About = () => {
       Nunc et metus mauris.
     </p>
   </section>
-}
+);
 
 export default About;
