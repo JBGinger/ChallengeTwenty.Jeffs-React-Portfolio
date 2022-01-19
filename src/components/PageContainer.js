@@ -3,9 +3,9 @@ import NavTabs from './NavTabs';
 import About from './pages/About';
 import Contact from './pages/Contact';
 //import Portfolio from './pages/Portfolio';
-//import Resume from './pages/Resume';
+import Resume from './pages/Resume';
 
-function Portfolio() {
+function RenderPages() {
     const [currentPage, handlePageChange] = useState('Home');
 
     const renderPage = () => {
@@ -14,6 +14,8 @@ function Portfolio() {
                 return <About></About>;
             case 'Contact':
                 return <Contact></Contact>;
+            case 'Resume':
+                return <Resume></Resume>;
             default:
                 return <About></About>;
         }
@@ -27,4 +29,4 @@ function Portfolio() {
     );
 }
 
-export default Portfolio;
+export default RenderPages;
