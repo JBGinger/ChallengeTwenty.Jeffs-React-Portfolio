@@ -2,8 +2,8 @@ import React, { useState } from 'react';
 import NavTabs from './NavTabs';
 import About from './pages/About';
 import Contact from './pages/Contact';
-//import Portfolio from './components/Portfolio';
-//import Resume from './components/Resume';
+//import Portfolio from './pages/Portfolio';
+//import Resume from './pages/Resume';
 
 function Portfolio() {
     const [currentPage, handlePageChange] = useState('Home');
