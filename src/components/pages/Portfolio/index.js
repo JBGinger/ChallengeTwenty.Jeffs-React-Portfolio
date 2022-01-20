@@ -3,8 +3,6 @@ import ProjectCard from './projectcard';
 import Astronaut from '../../../assets/portfolio-images/Astronaut.jpg';
 import Screenshot from '../../../assets/portfolio-images/Project.png';
 
-
-
 function Portfolio() {
     const projectList = [
         {
