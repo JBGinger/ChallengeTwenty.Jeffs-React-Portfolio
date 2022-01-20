@@ -2,22 +2,34 @@ import React, { useState } from 'react';
 import ProjectCard from './projectcard';
 import projects from './projects.json';
 
+import Astronaut from '../../../assets/portfolio-images/Astronaut.jpg';
+
+
+
 function Portfolio() {
-    const [projectList] = useState(projects);
+    const projectList = [
+        {
+            id: projects.id,
+            name: projects.name,
+            image: Astronaut,
+            applink: projects.applink,
+            githublink: projects.githublink
+        }
+    ]
 
     return (
-        <Wrapper>
-            <h1 id="portfolio">Portfolio</h1>
-            {projectList.map(projects => (
+        <div id="portfolio">
+            <h1 id="portfolio_title">Portfolio</h1>
+            {projectList.map((projects) => (
                 <ProjectCard
                     id={projects.id}
                     name={projects.name}
                     image={projects.image}
-                    app-link={projects.applink}
-                    github-link={projects.githublink}
-                    />
+                    applink={projects.applink}
+                    githublink={projects.githublink}
+                />
             ))}
-        </Wrapper>
+        </div>
     )
 }
 

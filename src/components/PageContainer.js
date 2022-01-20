@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import NavTabs from './NavTabs';
 import About from './pages/About';
 import Contact from './pages/Contact';
-//import Portfolio from './pages/Portfolio';
+import Portfolio from './pages/Portfolio/index.js'
 import Resume from './pages/Resume';
 
 function RenderPages() {
@@ -14,6 +14,8 @@ function RenderPages() {
                 return <About></About>;
             case 'Contact':
                 return <Contact></Contact>;
+            case 'Portfolio':
+                return <Portfolio></Portfolio>;
             case 'Resume':
                 return <Resume></Resume>;
             default:
