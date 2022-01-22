@@ -7,19 +7,9 @@ const About = () => (
     <img src={profilePicture} className='my-2' style={{ width: "20%" }} alt="cover"></img>
     <div className='my-2'>
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-        Sed viverra hendrerit est, vel pharetra ante gravida vitae.
-        Vestibulum pellentesque posuere lacus placerat pretium.
-        Praesent aliquet sapien dui, ac sagittis quam porttitor in.
-        Mauris ullamcorper nec dui non laoreet.
-        Vestibulum ut erat id libero viverra condimentum.
-        Aliquam fringilla tortor at fringilla bibendum.
-        In sit amet placerat massa. Ut ut urna urna.
-        Fusce cursus elementum tortor, ac tincidunt turpis gravida a.
-        Mauris auctor, augue vel commodo volutpat, neque ex iaculis leo, non sodales ante magna ut leo.
-        Praesent vitae molestie nunc.
-        Nunc eu orci elementum, aliquam justo sed, vestibulum dolor.
-        Nunc et metus mauris.
+      Hello everyone! My name is Jeff Brittingham, and this is my portfolio website.
+      After a few years of working as a QA tester in the professional world, I decided to challenge myself by signing up for a web development bootcamp through Rutgers University.
+      If you'd like to see more of my work, feel free to take a look at my <a href="https://github.com/JBGinger" target="_blank" rel="noreferrer">Github profile!</a>
       </p>
     </div>
   </section>
