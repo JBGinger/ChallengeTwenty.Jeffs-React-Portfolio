@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ChallengeTwenty.Jeffs-React-Portfolio/static/css/main.81e4fc50.css",
-    "main.js": "/ChallengeTwenty.Jeffs-React-Portfolio/static/js/main.18837348.js",
+    "main.js": "/ChallengeTwenty.Jeffs-React-Portfolio/static/js/main.4ea169d4.js",
     "static/js/787.a0015fea.chunk.js": "/ChallengeTwenty.Jeffs-React-Portfolio/static/js/787.a0015fea.chunk.js",
     "static/media/kanye-vs-ron.png": "/ChallengeTwenty.Jeffs-React-Portfolio/static/media/kanye-vs-ron.f92f162477a1424c67d2.png",
     "static/media/space-rpg.png": "/ChallengeTwenty.Jeffs-React-Portfolio/static/media/space-rpg.377ca55dea4171fbee05.png",
@@ -15,11 +15,11 @@
     "static/media/github.png": "/ChallengeTwenty.Jeffs-React-Portfolio/static/media/github.f11021803f68852df283.png",
     "index.html": "/ChallengeTwenty.Jeffs-React-Portfolio/index.html",
     "main.81e4fc50.css.map": "/ChallengeTwenty.Jeffs-React-Portfolio/static/css/main.81e4fc50.css.map",
-    "main.18837348.js.map": "/ChallengeTwenty.Jeffs-React-Portfolio/static/js/main.18837348.js.map",
+    "main.4ea169d4.js.map": "/ChallengeTwenty.Jeffs-React-Portfolio/static/js/main.4ea169d4.js.map",
     "787.a0015fea.chunk.js.map": "/ChallengeTwenty.Jeffs-React-Portfolio/static/js/787.a0015fea.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.81e4fc50.css",
-    "static/js/main.18837348.js"
+    "static/js/main.4ea169d4.js"
   ]
 }
