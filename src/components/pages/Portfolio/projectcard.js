@@ -13,7 +13,7 @@ function ProjectCard(props) {
                             <a href={props.applink} target="_blank" rel="noreferrer">Deployed Application</a>
                         </li>
                         <li>
-                            <a href={props.githublink} target="_blank" rel="noreferrer">Github Repo</a>
+                            <a href={props.githublink} target="_blank" rel="noreferrer">Github Repository</a>
                         </li>
                     </ul>
                 </div>
