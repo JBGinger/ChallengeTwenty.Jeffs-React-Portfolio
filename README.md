@@ -23,7 +23,7 @@ https://jbginger.github.io/ChallengeTwenty.Jeffs-React-Portfolio/
 Please use the following console command to install project dependancies: npm install
 
 ## Usage
-Please use this project to view my web development skills.
+Please use this project to take a look at my portfolio!
 
 ## Contributing
 Please reach out to me through email if you'd like to contribute to this project.
