@@ -10,9 +10,9 @@ import Work_Day_Scheduler from '../../../assets/portfolio-images/work-day-schedu
 function Portfolio() {
     const projectList = [
         {
-            "id": 1,
-            "name": "Space-RPG",
-            "image": Space_RPG,
+            id: 1,
+            name: "Space-RPG",
+            image: Space_RPG,
             "applink": "https://quiet-mountain-05103.herokuapp.com/",
             "githublink": "https://github.com/JBGinger/Space-RPG"
         },
