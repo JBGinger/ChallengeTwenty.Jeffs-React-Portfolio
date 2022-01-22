@@ -290,6 +290,20 @@ a {
   color: var(--secondary);
 }
 
+.about-me-section {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  flex-direction: column;
+  max-width: 80%;
+}
+
+#page-container {
+  display: flex;
+  justify-content: center;
+}
+
 /* body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',

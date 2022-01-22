@@ -26,7 +26,7 @@ function RenderPages() {
     return (
         <div>
             <NavTabs currentPage={currentPage} handlePageChange={handlePageChange} />
-            <div>{renderPage(currentPage)}</div>
+            <div id='page-container'>{renderPage(currentPage)}</div>
         </div>
     );
 }
