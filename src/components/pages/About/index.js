@@ -2,7 +2,7 @@ import React from 'react';
 import profilePicture from '../../../assets/misc-images/Portrait.jpg';
 
 const About = () => (
-  <section>
+  <section className='my-5'>
     <h1 id="about">About Me</h1>
     <img src={profilePicture} className='my-2' style={{ height: "50%", width: "50%" }} alt="cover"></img>
     <div className='my-2'>
