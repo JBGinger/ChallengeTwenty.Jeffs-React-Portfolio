@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ChallengeTwenty.Jeffs-React-Portfolio/static/css/main.81e4fc50.css",
+    "main.js": "/ChallengeTwenty.Jeffs-React-Portfolio/static/js/main.18837348.js",
+    "static/js/787.a0015fea.chunk.js": "/ChallengeTwenty.Jeffs-React-Portfolio/static/js/787.a0015fea.chunk.js",
+    "static/media/kanye-vs-ron.png": "/ChallengeTwenty.Jeffs-React-Portfolio/static/media/kanye-vs-ron.f92f162477a1424c67d2.png",
+    "static/media/space-rpg.png": "/ChallengeTwenty.Jeffs-React-Portfolio/static/media/space-rpg.377ca55dea4171fbee05.png",
+    "static/media/Portrait.jpg": "/ChallengeTwenty.Jeffs-React-Portfolio/static/media/Portrait.c4fa5c882a6c13f90bcd.jpg",
+    "static/media/weather-dashboard.png": "/ChallengeTwenty.Jeffs-React-Portfolio/static/media/weather-dashboard.7921be38f304dcefa638.png",
+    "static/media/note-taker.png": "/ChallengeTwenty.Jeffs-React-Portfolio/static/media/note-taker.f1bfa05cb97578d69d27.png",
+    "static/media/work-day-scheduler.png": "/ChallengeTwenty.Jeffs-React-Portfolio/static/media/work-day-scheduler.091aab1cbb19ea19f606.png",
+    "static/media/tech-blog.png": "/ChallengeTwenty.Jeffs-React-Portfolio/static/media/tech-blog.ca728b7582380fd7248b.png",
+    "static/media/Jeff-Brittingham-Resume.docx": "/ChallengeTwenty.Jeffs-React-Portfolio/static/media/Jeff-Brittingham-Resume.b43ab7c041b969029899.docx",
+    "static/media/stack-overflow.png": "/ChallengeTwenty.Jeffs-React-Portfolio/static/media/stack-overflow.579cff432dec19bc3d23.png",
+    "static/media/github.png": "/ChallengeTwenty.Jeffs-React-Portfolio/static/media/github.f11021803f68852df283.png",
+    "index.html": "/ChallengeTwenty.Jeffs-React-Portfolio/index.html",
+    "main.81e4fc50.css.map": "/ChallengeTwenty.Jeffs-React-Portfolio/static/css/main.81e4fc50.css.map",
+    "main.18837348.js.map": "/ChallengeTwenty.Jeffs-React-Portfolio/static/js/main.18837348.js.map",
+    "787.a0015fea.chunk.js.map": "/ChallengeTwenty.Jeffs-React-Portfolio/static/js/787.a0015fea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81e4fc50.css",
+    "static/js/main.18837348.js"
+  ]
+}
