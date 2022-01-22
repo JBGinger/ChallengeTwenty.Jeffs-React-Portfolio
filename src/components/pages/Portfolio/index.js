@@ -13,43 +13,43 @@ function Portfolio() {
             id: 1,
             name: "Space-RPG",
             image: Space_RPG,
-            "applink": "https://quiet-mountain-05103.herokuapp.com/",
-            "githublink": "https://github.com/JBGinger/Space-RPG"
+            applink: "https://quiet-mountain-05103.herokuapp.com/",
+            githublink: "https://github.com/JBGinger/Space-RPG"
         },
         {
-            "id": 2,
-            "name": "Kanye vs. Ron",
-            "image": Kanye_vs_Ron,
-            "applink": "https://jbginger.github.io/Group1.Module7Project/",
-            "githublink": "https://github.com/JBGinger/Group1.Module7Project"
+            id: 2,
+            name: "Kanye vs. Ron",
+            image: Kanye_vs_Ron,
+            applink: "https://jbginger.github.io/Group1.Module7Project/",
+            githublink: "https://github.com/JBGinger/Group1.Module7Project"
         },
         {
-            "id": 3,
-            "name": "Note Taker",
-            "image": Note_Taker,
-            "applink": "https://stormy-meadow-27538.herokuapp.com/",
-            "githublink": "https://github.com/JBGinger/ChallengeEleven.NoteTaker"
+            id: 3,
+            name: "Note Taker",
+            image: Note_Taker,
+            applink: "https://stormy-meadow-27538.herokuapp.com/",
+            githublink: "https://github.com/JBGinger/ChallengeEleven.NoteTaker"
         },
         {
-            "id": 4,
-            "name": "Tech Blog",
-            "image": Tech_Blog,
-            "applink": "https://intense-coast-68796.herokuapp.com/",
-            "githublink": "https://github.com/JBGinger/ChallengeFourteen.Jeffs-Tech-Blog"
+            id: 4,
+            name: "Tech Blog",
+            image: Tech_Blog,
+            applink: "https://intense-coast-68796.herokuapp.com/",
+            githublink: "https://github.com/JBGinger/ChallengeFourteen.Jeffs-Tech-Blog"
         },
         {
-            "id": 5,
-            "name": "Weather Dashboard",
-            "image": Weather_Dashboard,
-            "applink": "https://jbginger.github.io/JBGinger.ChallengeSix.ServerSideAPIs/",
-            "githublink": "https://github.com/JBGinger/JBGinger.ChallengeSix.ServerSideAPIs"
+            id: 5,
+            name: "Weather Dashboard",
+            image: Weather_Dashboard,
+            applink: "https://jbginger.github.io/JBGinger.ChallengeSix.ServerSideAPIs/",
+            githublink: "https://github.com/JBGinger/JBGinger.ChallengeSix.ServerSideAPIs"
         },
         {
-            "id": 6,
-            "name": "Work Day Scheduler",
-            "image": Work_Day_Scheduler,
-            "applink": "https://jbginger.github.io/JBGinger.ChallengeFive.ThirdPartyAPIs/",
-            "githublink": "https://github.com/JBGinger/JBGinger.ChallengeFive.ThirdPartyAPIs"
+            id: 6,
+            name: "Work Day Scheduler",
+            image: Work_Day_Scheduler,
+            applink: "https://jbginger.github.io/JBGinger.ChallengeFive.ThirdPartyAPIs/",
+            githublink: "https://github.com/JBGinger/JBGinger.ChallengeFive.ThirdPartyAPIs"
         }
     ]
 
