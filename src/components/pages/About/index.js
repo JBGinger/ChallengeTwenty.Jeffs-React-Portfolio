@@ -4,7 +4,7 @@ import profilePicture from '../../../assets/misc-images/Portrait.jpg';
 const About = () => (
   <section className='my-5'>
     <h1 id="about">About Me</h1>
-    <img src={profilePicture} className='my-2' style={{ height: "50%", width: "50%" }} alt="cover"></img>
+    <img src={profilePicture} className='my-2' style={{ width: "25%" }} alt="cover"></img>
     <div className='my-2'>
       <p>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit.
