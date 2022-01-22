@@ -257,6 +257,10 @@ textarea {
   margin: 50px auto;
   padding: 15px;
   width: 960px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-items: center;
 }
 
 .modalTitle {
@@ -302,7 +306,16 @@ a {
 
 #page-container {
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-items: center;
+}
+
+#portfolio {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-items: center;
 }
 
 #footer-section {
@@ -313,6 +326,11 @@ a {
 
 .footer-logo {
   max-width: 200px;
+}
+
+.img-container {
+  display: flex;
+  justify-content: center;
 }
 
 /* body {
