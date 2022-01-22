@@ -55,8 +55,10 @@ function Portfolio() {
 
     return (
         <div id="portfolio">
-            <h1 id="portfolio_title">Portfolio</h1>
-            { projectList.length > 0 && projectList.map((projectList) => (
+            <div className='title-container'>
+                <h1 id="portfolio_title">Portfolio</h1>
+            </div>
+            {projectList.length > 0 && projectList.map((projectList) => (
                 <ProjectCard key={projectList.id}
                     id={projectList.id}
                     name={projectList.name}
