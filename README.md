@@ -3,6 +3,9 @@
 ## Description
 The purpose of this project was to create a portfolio website using React so that it can be shown to potential employers. This portfolio website is a single page app that contains an about me section, a contact section, a portfolio section, and a resume section.
 
+## Screenshot
+![Alt text](src/assets/misc-images/app-screenshot.png)
+
 ## Table Of Contents
 * [Description](#description)
 * [Installation](#installation)
