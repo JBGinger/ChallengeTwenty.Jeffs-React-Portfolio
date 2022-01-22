@@ -5,7 +5,7 @@ function NavTabs(props) {
     return (
         <header className='flex-row px-1'>
             <h2>
-                <a data-testid="link" href="/">
+                <a data-testid="link" href='/ChallengeTwenty.Jeffs-React-Portfolio'>
                     <span id="name">Jeffrey Brittingham</span>
                 </a>
             </h2>
