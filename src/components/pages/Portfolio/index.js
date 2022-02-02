@@ -4,7 +4,7 @@ import Space_RPG from '../../../assets/portfolio-images/space-rpg.png';
 import Kanye_vs_Ron from '../../../assets/portfolio-images/kanye-vs-ron.png';
 import Note_Taker from '../../../assets/portfolio-images/note-taker.png';
 import Tech_Blog from '../../../assets/portfolio-images/tech-blog.png';
-import Weather_Dashboard from '../../../assets/portfolio-images/weather-dashboard.png';
+import Twenty_One_Days from '../../../assets/portfolio-images/21-days-homepage.png';
 import Work_Day_Scheduler from '../../../assets/portfolio-images/work-day-scheduler.png';
 
 function Portfolio() {
@@ -39,10 +39,10 @@ function Portfolio() {
         },
         {
             id: 5,
-            name: "Weather Dashboard",
-            image: Weather_Dashboard,
-            applink: "https://jbginger.github.io/JBGinger.ChallengeSix.ServerSideAPIs/",
-            githublink: "https://github.com/JBGinger/JBGinger.ChallengeSix.ServerSideAPIs"
+            name: "21 Days",
+            image: Twenty_One_Days,
+            applink: "https://lit-reaches-99655.herokuapp.com/",
+            githublink: "https://github.com/djamz919/Track-My-Habits"
         },
         {
             id: 6,
